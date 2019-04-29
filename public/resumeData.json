@@ -2,17 +2,17 @@
   "main": {
     "name":"Danny Mok",
     "occupation":"System Engineer & Programmer",
-    "description":"Hello World ! ",
+    "description":"Hello World ! This is Danny from HK",
     "image":"profilepic.jpg",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "danny.moktc@gmail.com",
     "phone": "852 67931823",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"",
+      "city":"Hong Kong",
+      "state":"",
+      "zip": ""
     },
     "website": "http://www.chungmok.de",
     "resumedownload":"http://chungmok.de",
@@ -58,10 +58,10 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"HKBU",
+        "degree":"Computing Studies",
+        "graduated":"April 2015",
+        "description":"Nothing"
       },
       {
         "school":"School #1 Maybe College?",
