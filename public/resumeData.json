@@ -55,13 +55,13 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Hands on expeerence of Java / C# ",
     "education":[
       {
         "school":"HKBU",
         "degree":"Computing Studies",
         "graduated":"April 2015",
-        "description":"Nothing"
+        "description":"Nothing >.< "
       }
     ],
     "work":[
@@ -69,7 +69,7 @@
         "company":"Octopus Holdings Limited ",
         "title":"System Engineer ",
         "years":"November 2017 - Present",
-        "description":"International Project participating and lead small team in performing Requirement Gathering & Analysis, Process & System Design, Development, Testing, Release Management and Maintenance of automated are collection (AFC) systems- "
+        "description":"Participating and lead small team in performing Requirement Gathering & Analysis, Process & System Design, Development, Testing, Release Management and Maintenance of automated are collection (AFC) systems "
       },
       {
         "company":"Hewlett Packard Enterprise (HPE)",
