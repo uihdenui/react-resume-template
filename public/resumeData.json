@@ -2,7 +2,7 @@
   "main": {
     "name":"Danny Mok",
     "occupation":"System Engineer & Programmer",
-    "description":"Hello World ! Check my stunning webiste without Wix .",
+    "description":"Hello World ! Lets check my stunning webiste without Wix.",
     "image":"profilepic.jpg",
     "bio":"I have been working as a full-time programmer in HK for 3.5 years, open to challenges",
     "contactmessage":"Please contact me if there is any opportunity.",
@@ -46,7 +46,7 @@
         "school":"HKBU",
         "degree":"Computing Studies",
         "graduated":"April 2015",
-        "description":"Nothing >.< "
+        "description":"Bachelor of Science (Honours) in Computing Study (Information System)"
       }
     ],
     "work":[
@@ -61,12 +61,18 @@
         "title":"Programmer",
         "years":"November 2015 - November 2017",
         "description":"Develop, Implement, Design and fulfill system maintenance and support duties to clients"
+      },
+      {
+        "company":"CS Congress Services Limited, Munich, Germany",
+        "title":"Technician Trainee",
+        "years":"June 2015 - July 2015",
+        "description":"Managed and maintained daily operation of online store;"
       }
     ],
     "skills":[
       {
         "name":"Git",
-        "level":"60%"
+        "level":"70%"
       },
       {
         "name":"Java",
@@ -77,7 +83,7 @@
         "level":"30%"
       },
       {
-        "name":"CSS",
+        "name":"AngularJS",
         "level":"90%"
       },
       {
@@ -85,7 +91,7 @@
         "level":"80%"
       },
       {
-        "name":"AngularJs",
+        "name":"C#",
         "level":"50%"
       },
       {
