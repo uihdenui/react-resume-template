@@ -31,11 +31,6 @@
         "name":"instagram",
         "url":"http://instagram.com/chungmok13",
         "className":"fa fa-instagram"
-      },
-      {
-        "name":"github",
-        "url":"http://github.com/uihdenui",
-        "className":"fa fa-github"
       }
     ]
   },
