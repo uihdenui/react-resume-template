@@ -18,19 +18,9 @@
     "resumedownload":"https://drive.google.com/file/d/1RJKF_mfpSuQTYNR49QF84r3XyB84FMGc/view?usp=sharing",
     "social":[
       {
-        "name":"facebook",
-        "url":"http://facebook.com/chung.mok",
-        "className":"fa fa-facebook"
-      },
-      {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/danny-mok-28b562105",
         "className":"fa fa-linkedin"
-      },
-      {
-        "name":"instagram",
-        "url":"http://instagram.com/chungmok13",
-        "className":"fa fa-instagram"
       }
     ]
   },
